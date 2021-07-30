@@ -14,3 +14,10 @@
 | When LED is ON, temperature sensor gets activated and analog values get converted into digital values by ADC of the microcontroller(ATMega328)|
 |:--:|
 |![image](Images/Activity2/Activity2.PNG)|
+
+## Activity 3
+
+|ADC: 0-200|ADC: 210-500|ADC: 510-700|ADC: 710-1024|
+|:--:|:--:|:--:|:--:|
+|![image](Images/Activity3/Activity3_PWM_20%.png)|![image](Images/Activity3/Activity3_PWM_40%.png)|![image](Images/Activity3/Activity3_PWM_70%.png)|![image](Images/Activity3/Activity3_PWM_95%.png)|
+|20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
