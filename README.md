@@ -21,3 +21,10 @@
 |:--:|:--:|:--:|:--:|
 |![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_20%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_40%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_70%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_95%25.PNG)|
 |20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
+
+## Activity 4
+
+|20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
+|:--:|:--:|:--:|:--:|
+|![image](https://github.com/260007/Embedded_C_project/blob/main/Images/Activity4/Activity4_temp_20.png)|![image](https://github.com/260007/Embedded_C_project/blob/main/Images/Activity4/Activity4_temp_25.png)|![image](https://github.com/260007/Embedded_C_project/blob/main/Images/Activity4/Activity4_temp_29.png)|![image](https://github.com/260007/Embedded_C_project/blob/main/Images/Activity4/Activity4_temp_33.png)|
+|temperature = 20°C|temperature = 25°C|temperature = 29°C|temperature = 33°C|
