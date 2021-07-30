@@ -19,5 +19,5 @@
 
 |ADC: 0-200|ADC: 210-500|ADC: 510-700|ADC: 710-1024|
 |:--:|:--:|:--:|:--:|
-|![image](Images/Activity3/Activity3_PWM_20%.PNG)|![image](Images/Activity3/Activity3_PWM_40%.PNG)|![image](Images/Activity3/Activity3_PWM_70%.PNG)|![image](Images/Activity3/Activity3_PWM_95%.PNG)|
+|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_20%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_40%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_70%25.PNG)|![image](https://github.com/Swathi2709/M_Swathi_Embedded/blob/main/Images/Activity3/Activity3_PWM_95%25.PNG)|
 |20% duty cycle|40% duty cycle|70% duty cycle|95% duty cycle|
