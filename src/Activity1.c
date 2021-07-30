@@ -1,8 +1,26 @@
+/**
+ * @file Activity1.c
+ * @author M Swathi
+ * @brief // configuration of pins
+ * @version 0.1
+ * @date 2021-07-24
+ *
+ * @copyright Copyright (c) 2021
+ *
+ */
 #include <avr/io.h>
 #include <util/delay.h>
-int main()
+#include "Activity3.h"
+#include "Activity4.h"
+#include "Activity2.h"
+
+
+
+void Activity1()
 
 {
+
+
     // Direction of port
     DDRB |= (1 << PB0);
     DDRD &= ~(1 << PD0);
@@ -19,6 +37,9 @@ int main()
             // set LED
             PORTB |= (1 << PB0);
             _delay_ms(200);
+            Activity2();
+            Activity3();
+            Activity4();
         }
         else
         {
