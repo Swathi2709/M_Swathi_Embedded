@@ -3,7 +3,7 @@
  * @author M Swathi
  * @brief contains all function prototypes
  * @version 0.1
- * @date 2021-07-24
+ * @date 2021-07-28
  *
  * @copyright Copyright (c) 2021
  *
